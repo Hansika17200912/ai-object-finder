@@ -1,0 +1,41 @@
+body
+{
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 0%;
+}
+
+#start, #status
+{
+    font-size: 17px;
+
+}
+#number_of_objects
+{
+    font-size: 17px;
+    background-color: yellow;
+}
+
+.copy_right_footer 
+{
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background-color: #303027;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 4px 5px 4px peru;
+}
